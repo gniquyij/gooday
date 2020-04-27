@@ -1,4 +1,4 @@
-COVID-19, recession, ...my daily life has been changing a lot in 2020:
+COVID19, recession, ...my daily life has been changing a lot in 2020:
 - always worry about the health of the people around me and myself.
 - WFH for almost 2 months. It will keep going because of the recession. 
 - food price keeps rising like nothing happened. 
