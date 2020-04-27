@@ -16,7 +16,7 @@ gooday includes 2 parts:
 1. `gd.py` generates a wording - dumped from remote (TBC) or loaded from local. 
 2. `install.sh` makes you see it - by updating `bash_profile`.
 
-Only 2 steps to setup (see [README]() for details):
+Only 2 steps to setup (see [README](https://github.com/vjyq/gooday) for details):
 1. clone the repo
 2. bash execute `install.sh`
 
