@@ -22,7 +22,7 @@ gooday includes 2 parts:
 
 That's all about the basic mode.
 
-I also made a pro mode, which would require user to guess the word in the sentence. 
+I also made a pro mode, which would require users to guess the word in the sentence. 
 As you might have guessed, to use your terminal, you need to first finish it. 
 
 You might succeed
