@@ -7,10 +7,10 @@ I feel okay since things can't be made worse - either get better or nothing is g
 
 Recently I found reading kind of helpful on the stress so I wrote [gooday](https://github.com/vjyq/gooday). 
 As a programmer, terminal might be the target I talk to most in a day. 
-With gooday, when I new a tab/window in the terminal, a wording will pop up first. 
-Reading that, I would say, is just like sharing feelings with a friend. 
+With gooday, when I new a tab/window in the terminal, a wording will pop up first, 
+which is like a sharing from a friend.
 
-![sample](./sample.png)
+![sample](demo/basic.png)
 
 gooday includes 2 parts:
 1. `gd.py` generates a wording which is dumped from remote (TBC) or loaded from local. 
@@ -20,13 +20,18 @@ gooday includes 2 parts:
 1. clone the repo
 2. bash execute `install.sh`
 
-My OS:
-```
-yuqing.ji@yuqingjis-MacBook-Pro ~ $ sw_vers
-ProductName:	Mac OS X
-ProductVersion:	10.14.4
-BuildVersion:	18E226
-```
+That's all about the basic mode.
+
+I also made a pro mode, which would require user to guess the word in the sentence. 
+As you might have guessed, to use your terminal, you need to first finish it. 
+
+You might succeed
+![succeeded](./demo/pro/success.gif)
+
+or fail
+![failed](./demo/pro/failure.gif)
+
+Doesn't matter ;)
 
 Wish gooday also could be helpful to you. Have a good day.
 
