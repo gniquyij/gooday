@@ -12,7 +12,7 @@ which is like a sharing from a friend.
 
 ![basic](demo/basic.gif)
 
-gooday includes 2 parts:
+gooday basically includes 2 parts:
 1. `gd.py` generates a wording which is dumped from remote (TBC) or loaded from local. 
 2. `install.sh` makes you see it - by updating `bash_profile`.
 
@@ -20,9 +20,7 @@ gooday includes 2 parts:
 1. clone the repo
 2. bash execute `install.sh`
 
-That's all about the basic mode.
-
-I also made a pro mode, which would require users to guess the word in the sentence. 
+I also made a PRO mode, which would require users to guess the word in the sentence. 
 As you might have guessed, to use your terminal, you need to first finish it. 
 
 You might succeed
