@@ -10,7 +10,7 @@ As a programmer, terminal might be the target I talk to most in a day.
 With gooday, when I new a tab/window in the terminal, a wording will pop up first, 
 which is like a sharing from a friend.
 
-![sample](demo/basic.gif)
+![basic](demo/basic.gif)
 
 gooday includes 2 parts:
 1. `gd.py` generates a wording which is dumped from remote (TBC) or loaded from local. 
@@ -27,11 +27,11 @@ As you might have guessed, to use your terminal, you need to first finish it.
 
 You might succeed
 
-![succeeded](./demo/pro/success.gif)
+![pro-succeeded](./demo/pro/success.gif)
 
 or fail
 
-![failed](./demo/pro/failure.gif)
+![pro-failed](./demo/pro/failure.gif)
 
 Doesn't matter ;)
 
