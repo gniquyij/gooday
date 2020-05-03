@@ -15,7 +15,7 @@ def segment_sentence(sentence):
 def pick_word(sentence):
     wlist = segment_sentence(sentence)
     i = random.randint(0, len(wlist)-1)
-    word = wlist[1]
+    word = wlist[i]
     return word, sentence.replace(word, '___')
 
 
@@ -32,7 +32,7 @@ def trick(word, sentence, n):
             return
         print('\n%s\n' % 'YOU GOT IT!')
     if n > 0:
-        guess = interact('Guess')
+        guess = interact('Guess the word')
         if guess == word:
             print('\n%s\n' % 'YOU GOT IT!')
             return
