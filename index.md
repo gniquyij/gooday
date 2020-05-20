@@ -3,11 +3,11 @@ COVID19, recession, ...my daily life has been changing a lot in 2020:
 - WFH for almost 2 months. It will keep going because of the recession. 
 - food price keeps rising like nothing happened. 
 
-I feel okay since things can't be made worse - either get better or nothing is going to change, but sometimes stress because of the uncertainty in practice.
+I feel okay since things can't be worse - either get better or nothing is going to change, but sometimes anxious because of the uncertainty in practice.
 
 Recently I found reading kind of helpful on the stress so I wrote [gooday](https://github.com/vjyq/gooday). 
 As a programmer, terminal might be the target I talk to most in a day. 
-With gooday, when I new a tab/window in the terminal, a wording will pop up first, 
+With gooday, when I new a tab/window in the terminal, a wording will pop up, 
 which is like a sharing from a friend.
 
 ![basic](demo/basic.gif)
